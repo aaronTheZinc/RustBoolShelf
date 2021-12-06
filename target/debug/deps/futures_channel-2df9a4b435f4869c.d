@@ -1,0 +1,11 @@
+C:\Users\aaron\Documents\RustAlgo\target\debug\deps\futures_channel-2df9a4b435f4869c.rmeta: C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\lib.rs C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\lock.rs C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\mpsc\mod.rs C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\mpsc\queue.rs C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\oneshot.rs
+
+C:\Users\aaron\Documents\RustAlgo\target\debug\deps\libfutures_channel-2df9a4b435f4869c.rlib: C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\lib.rs C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\lock.rs C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\mpsc\mod.rs C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\mpsc\queue.rs C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\oneshot.rs
+
+C:\Users\aaron\Documents\RustAlgo\target\debug\deps\futures_channel-2df9a4b435f4869c.d: C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\lib.rs C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\lock.rs C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\mpsc\mod.rs C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\mpsc\queue.rs C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\oneshot.rs
+
+C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\lib.rs:
+C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\lock.rs:
+C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\mpsc\mod.rs:
+C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\mpsc\queue.rs:
+C:\Users\aaron\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.18\src\oneshot.rs:
